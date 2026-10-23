@@ -40,4 +40,6 @@ Claude in Chrome (sesión del usuario), conector de Figma con sus skills (figma-
 Iniciar sesión, crear cuentas, contraseñas, códigos, conectar cuentas, pagar, publicar, invitar o enviar algo: lo hace o lo aprueba el usuario. Datos personales visibles: no se guardan (paso "sin captura").
 
 ## 4. Entrega
-Notas en `recorrido-<persona>.md` (tabla: #, captura, acción, semáforo, nota, espera) y flujo en Figma con la skill `flujo-figma`.
+- Notas en `recorrido-<persona>.md` (tabla: #, captura, acción, semáforo, nota, espera).
+- Al terminar el recorrido (o si el usuario dice que pare), no esperes a que lo pida: propón el flujo con todos los datos, por ejemplo: «He terminado: 18 pasos, 3 fricciones y 1 bloqueo. ¿Lo paso a Figma? Archivo: <nombre>, página "Recorrido - <Persona> (<momento>)", sección "<Persona> · <recorrido>"». Con su sí, usa la skill `flujo-figma`.
+- Al acabar en Figma, da el enlace a la sección y di cuántos pasos hay y cuáles son 🔴.

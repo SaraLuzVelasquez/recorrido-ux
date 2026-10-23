@@ -7,7 +7,9 @@ Método y skills de Claude Code para auditar **cualquier web (página o software
 - tiempos de espera;
 - el flujo montado en Figma.
 
-**Diseñadora:** Sara Luz. Si usas o adaptas este método, cítalo (ver LICENSE y CITATION.cff).
+**Autora:** Sara Luz. Si usas o adaptas este método, cítalo (ver LICENSE y CITATION.cff).
+
+👉 **¿Primera vez? Lee [EMPIEZA-AQUI.md](EMPIEZA-AQUI.md): paso a paso desde cero.**
 
 > **Prueba piloto · v0.1.** Probado en un recorrido real de un software web. Solo sirve para webs que se abren en el navegador. Se irá ajustando con el uso: cuéntanos qué falla.
 
@@ -47,7 +49,8 @@ Iniciar sesión, pagar, publicar, invitar o enviar algo sigue siendo cosa tuya: 
    - qué hay que tener preparado antes de empezar.
 
    La ficha y las tareas puedes **contestarlas en el chat** o pedirle que **las lea de tu archivo** (Figma o un documento). Si contestas en el chat, Claude dibuja la ficha vacía en Figma y la va rellenando con cada respuesta.
-4. Tú inicias sesión y apruebas pagos, publicaciones o envíos. Claude recorre la web, captura cada paso y monta el flujo en Figma con la skill `flujo-figma`.
+4. Tú inicias sesión y apruebas pagos, publicaciones o envíos. Claude recorre la web y captura cada paso.
+5. Al terminar, Claude te dice cuántos pasos y problemas ha encontrado y te propone pasarlo a Figma, con el archivo, la página y la sección donde irá. Solo tienes que decir que sí.
 
 ## Qué sale
 - `recorrido-<persona>.md`: una tabla por paso con la captura, la acción, el semáforo (🟢 va bien / 🟡 fricción / 🔴 bloqueo), una nota y la espera.
