@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si usas este método, cítalo así."
+title: "Recorrido UX por protopersonas"
+authors:
+  - family-names: "Luz"
+    given-names: "Sara"
+version: 0.1.0
+date-released: 2026-10-23
+license: CC-BY-4.0

@@ -1,0 +1,3 @@
+# Protopersona: <Nombre> · <momento>
+Bio: … | Tareas: … | Quién suele ser: … | Qué espera al llegar: … | Nivel técnico: … | Qué hace (rol/permisos): … | Cuántas personas gestiona: … | Qué le preocupa: … | Dónde se puede atascar (hipótesis): …
+(Marca cada línea como «dato: fuente» o «supuesto».)
