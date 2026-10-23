@@ -7,7 +7,7 @@ Método y skills de Claude Code para auditar **cualquier web (página o software
 - tiempos de espera;
 - el flujo montado en Figma.
 
-**Autora:** Sara Luz. Si usas o adaptas este método, cítalo (ver LICENSE y CITATION.cff).
+**Diseñadora:** Sara Luz. Si usas o adaptas este método, cítalo (ver LICENSE y CITATION.cff).
 
 👉 **¿Primera vez? Lee [EMPIEZA-AQUI.md](EMPIEZA-AQUI.md): paso a paso desde cero.**
 
